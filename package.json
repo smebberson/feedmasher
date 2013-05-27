@@ -1,0 +1,19 @@
+{
+  "name": "feedmasher",
+  "version": "0.0.0",
+  "description": "An module to quickly and easily mash multiple feeds together",
+  "main": "main.js",
+  "dependencies": {
+    "feedparser": "0.15.x",
+    "request": "2.x",
+    "async": "0.2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smebberson/feedmasher.git"
+  },
+  "author": "Scott Mebberson",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "deb90c5fea653327c85aeae62a0afcfa7e8b7137"
+}
